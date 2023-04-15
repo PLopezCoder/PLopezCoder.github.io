@@ -5,10 +5,11 @@ nav li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     color: white;
+    width: auto;
 }
 
 nav li:hover {
-    background-color: yellow;
+    color: yellow;
 }
 
 header h1 {
