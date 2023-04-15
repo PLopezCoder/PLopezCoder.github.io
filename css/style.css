@@ -1,5 +1,5 @@
 nav li {
-    display: inline-block;
+    display: block;
     background-color: black;
     border: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
