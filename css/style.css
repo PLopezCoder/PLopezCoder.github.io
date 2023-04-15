@@ -1,11 +1,14 @@
 nav li {
-    display: block;
+    display: inline-block;
     background-color: black;
     border: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     color: white;
     width: auto;
+    text-decoration: none;
+    text-align: center;
+
 }
 
 nav li:hover {
