@@ -1,14 +1,17 @@
 nav li {
     display: inline-block;
     background-color: black;
+    color: white;
+    width: auto;
+    text-align: center;
+
+}
+
+#nav-button {
+    text-decoration: none;
     border: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
-    color: white;
-    width: auto;
-    text-decoration: none;
-    text-align: center;
-
 }
 
 #nav-button:hover {
