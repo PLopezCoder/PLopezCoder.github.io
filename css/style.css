@@ -1,4 +1,4 @@
-nav li {
+#nav-button {
     display: inline-block;
     background-color: black;
     border: none;
@@ -8,5 +8,9 @@ nav li {
 }
 
 nav li:hover {
+    background-color: yellow;
+}
+
+header h1 {
     
 }
