@@ -1,0 +1,8 @@
+nav li {
+    display: inline-block;
+    background-color: black;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+}
