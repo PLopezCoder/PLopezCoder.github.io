@@ -1,10 +1,13 @@
+nav {
+    background-color: black;
+    text-align: center;
+    width: auto;
+}
+
 nav li {
     display: inline-block;
     background-color: black;
     color: white;
-    width: auto;
-    text-align: center;
-
 }
 
 #nav-button {
@@ -15,7 +18,7 @@ nav li {
 }
 
 #nav-button:hover {
-    color: yellow;
+    color: blue;
 }
 
 header h1 {
